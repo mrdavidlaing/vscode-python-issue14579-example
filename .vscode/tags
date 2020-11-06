@@ -7,6 +7,8 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/2d41027/
 do_work	../awesome_pkg/thing_doer.py	/^def do_work(arg1):$/;"	kind:function	line:1
-test_do_work_should_do_something	../awesome_pkg/test/test_thing_doer.py	/^def test_do_work_should_do_something():$/;"	kind:function	line:3
+test_do_work_should_do_something	../awesome_pkg/test/test_thing_doer.py	/^def test_do_work_should_do_something():$/;"	kind:function	line:5
+test_syspath	../awesome_pkg/test/test_syspath.py	/^def test_syspath():$/;"	kind:function	line:3
+test_syspath.py	../awesome_pkg/test/test_syspath.py	1;"	kind:file	line:1
 test_thing_doer.py	../awesome_pkg/test/test_thing_doer.py	1;"	kind:file	line:1
 thing_doer.py	../awesome_pkg/thing_doer.py	1;"	kind:file	line:1

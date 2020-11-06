@@ -1,3 +1,5 @@
+import sys
+
 from awesome_pkg import thing_doer
 
 def test_do_work_should_do_something():
